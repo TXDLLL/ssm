@@ -14,7 +14,7 @@ dependencies {
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.2'
     compileClasspath 'com.alibaba:fastjson:1.2.78'
     compileClasspath 'com.alibaba:druid:1.2.8'
-    compileClasspath 'javax.servlet:javax.servlet-api:3.1.0'
+    compileClasspath 'javax.servlet:javax.servlet-api:4.0.1'
     compileClasspath 'org.springframework:spring-webmvc:5.3.13'
     compileClasspath 'org.springframework:spring-jdbc:5.3.13'
     compileClasspath 'org.apache.shiro:shiro-core:1.8.0'
